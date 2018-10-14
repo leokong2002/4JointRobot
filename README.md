@@ -1,6 +1,6 @@
 # 4JointRobot
 
-Hi this is a 4-joint robotic arm model in JAVA in the course of Intelligent Robotics in 2018
+Hi, this is a 4-joint robotic arm model in JAVA in the course of Intelligent Robotics in 2018
 
 This program mainly uses for practicing robot kinematics
 
